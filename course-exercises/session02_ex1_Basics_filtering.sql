@@ -1,5 +1,4 @@
---1. How many movies are there that contain 'Saga' in the description and where 
---the title starts either with 'A' or ends with 'R'? Use the alias 'no_of_movies'.
+--1. How many movies are there that contain 'Saga' in the description and where the title starts either with 'A' or ends with 'R'? Use the alias 'no_of_movies'.
 
 Select count(*) as no_of_movies
 From film 

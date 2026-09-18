@@ -1,7 +1,5 @@
 --You need to find out how many tickets you have sold in the following categories:
---· Low price ticket: total_amount < 20,000
---· Mid price ticket: total_amount between 20,000 and 150,000
---· High price ticket: total_amount >= 150,000
+--· Low price ticket: total_amount < 20,000 /· Mid price ticket: total_amount between 20,000 and 150,000 /· High price ticket: total_amount >= 150,000
 --How many high price tickets has the company sold?
 
 select

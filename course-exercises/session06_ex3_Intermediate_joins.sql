@@ -1,5 +1,4 @@
 --The company wants to run a phone call campaing on all customers in Texas (=district).
-
 --What are the customers (first_name, last_name, phone number and their district) from Texas?
 
 select first_name,last_name,phone,a.address_id,district 
